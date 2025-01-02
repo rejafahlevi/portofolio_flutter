@@ -1,3 +1,145 @@
+
 {
-    "cmake.sourceDirectory": "I:/Documents/Portofolio/my_porto/linux"
+     "cmake.sourceDirectory": "D:/Data/porto/portofolio_flutter/linux",
+    "liveshare.autoShareTerminals": true,
+    "liveshare.autoShareServers": true,
+    "eslint.workingDirectories": [
+        
+        {"mode": "auto"}
+    ],
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "dart.cliConsole": "terminal",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "remote.SSH.remoteServerListenOnSocket": true,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        // "editor.rulers": [
+        //     80
+        // ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "cmake.configureOnOpen": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "git.enableSmartCommit": true,
+    "editor.linkedEditing": true,
+    "editor.accessibilitySupport": "off",
+    "[python]": {
+    
+        "diffEditor.ignoreTrimWhitespace": false,
+        "gitlens.codeLens.symbolScopes": [
+            "!Module"
+        ],
+        "editor.wordBasedSuggestions": "off",
+        "editor.formatOnType": true
+    },
+    "files.autoSave": "onWindowChange",
+    "prettier.enableDebugLogs": true,
+    "eslint.enable": false,
+    "errorLens.excludeBySource": [
+        "dart(creation_with_non_type)"
+    ],
+    "window.autoDetectColorScheme": true,
+    "window.titleSeparator": " REJA",
+    "window.newWindowDimensions": "inherit",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\levik\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe",
+    "dart.debugExternalPackageLibraries": true,
+    "dart.debugSdkLibraries": false,
+    "chatgpt.lang": "en",
+    "jsonToDart.json.codecs": true,
+    "jsonToDart.copyWith": true,
+    "cmake.options.statusBarVisibility": "visible",
+    "git.openRepositoryInParentFolders": "never",
+    "[dart][python]": {
+        "editor.wordBasedSuggestions": "off"
+    },
+    "cmake.showOptionsMovedNotification": false,
+    "liveshare.accessibility.soundsEnabled": false,
+    "liveshare.accessibility.accessibilityFeaturesEnabled": "off",
+    "liveshare.accessibility.soundVolume": 0,
+    "liveshare.accessibility.speechRate": 1,
+    "liveshare.accessibility.voiceEnabled": false,
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "git.autofetch": true,
+    "accessibility.signals.lineHasError": {
+        "sound": "off"
+    },
+    "accessibility.signals.lineHasBreakpoint": {
+        "sound": "off"
+    },
+    "accessibility.signals.diffLineDeleted": {
+        "sound": "off"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    },
+    "workbench.colorTheme": "Winter is Coming (Dark Black)",
+    "dart.flutterSdkPath": "C:\\flutter_3.24.5",
+    "editor.wordWrap": "on",
+    "screencastMode.keyboardOptions": {
+        "showSingleEditorCursorMoves": false
+    },
+    "workbench.editor.preventPinnedEditorClose": "keyboard",
+    "screencastMode.keyboardOverlayTimeout": 500,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "explicit",
+    "editor.cursorStyle": "block",
+    "gitlens.keymap": "none",
+    "editor.largeFileOptimizations": false,
+    "terminal.integrated.enableImages": true,
+    "terminal.integrated.focusAfterRun": "terminal",
+    "code-runner.runInTerminal": true,
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "Windows PowerShell": {
+            "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+        }
+    },
+    "java.home": "\"java.home\": \"C:\\Program Files\\Java\\jdk17.0.9+8\"",
+    "redhat.telemetry.enabled": false,
+    "workbench.preferredLightColorTheme": "Visual Studio 2017 Dark - C++",
+    "cmake.pinnedCommands": [
+        "workbench.action.tasks.configureTaskRunner",
+        "workbench.action.tasks.runTask"
+    ],
+    "workbench.preferredDarkColorTheme": "Visual Studio 2019 Dark",
+    "editor.overviewRulerBorder": false,
+    "background.enabled": true,
+    "background.windowBackgrounds": [
+        "d:/Kamera/222_0101/IMG_8314.JPG"
+    ],
+    "workbench.settings.applyToAllProfiles": [
+        
+    ],
+    // "editor.rulers": [
+
+    // ],
 }

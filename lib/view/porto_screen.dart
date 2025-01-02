@@ -77,7 +77,7 @@ class _PortoScreenState extends State<PortoScreen>
         backgroundColor: Colors.black87,
       ),
       body: BottomBar(
-        fit: StackFit.expand,
+        fit: StackFit.loose,
         borderRadius: BorderRadius.circular(500),
         curve: Curves.easeInOut,
         start: 2,
